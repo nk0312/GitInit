@@ -1,0 +1,40 @@
+Все операции выполнять через терминал!
+
+1. Создать директорию **“test-repo”** на рабочем столе
+2. Создать файл **indеx.html**
+3. Написать какой-нибудь текст внутри **index.html**
+4. Создать r**eadme.txt**
+5. Написать в **readme.txt** *“Я властелин терминала!”*
+6. Создать директорию **test**
+7. В директории **test** создать файл **test.txt**
+8. Удалить директорию **test**
+
+
+1. Admin@Admin-PC MINGW64 ~/Desktop (master)
+$ mkdir test-repo
+
+2. Admin@Admin-PC MINGW64 ~ (master)
+$ touch index.html
+
+3. Admin@Admin-PC MINGW64 ~ (master)
+echo Super index.html
+
+4. Admin@Admin-PC MINGW64 ~ (master)
+touch readme.txt
+
+5. Admin@Admin-PC MINGW64 ~ (master)
+$ echo “Я властелин терминала” > readme.txt
+
+6. Admin@Admin-PC MINGW64 ~ (master)
+$ mkdir test
+
+7. Admin@Admin-PC MINGW64 ~ (master)
+$ cd test
+
+Admin@Admin-PC MINGW64 ~ (master)
+$ touch test.txt
+
+8. Admin@Admin-PC MINGW64 ~ (master)
+$ rm -r test
+
+
